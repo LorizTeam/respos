@@ -12,11 +12,6 @@
  		<action name="login" class="User.UserAction" method="execute">
       		<result name="success">/dashboard.jsp</result>
     	</action>
-    	
-    	<action name="test1" class="Product.ProductAction" method="execute">
-      		<result name="submit">/order.jsp</result>
-      		<result name="cancel">/product.jsp</result>
-    	</action>
  		
     </package>
  
