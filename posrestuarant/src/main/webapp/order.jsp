@@ -9,6 +9,6 @@
 </head>
 <body>
 	<s:property value="productmodel.product_id"/>
-	<s:property value="productmodel.product_name"/>
+	
 </body>
 </html>
